@@ -1,3 +1,5 @@
 Ini adalah contoh file baru
 
 Nambahin baris baru
+
+Edit file ketika push ke github
